@@ -64,4 +64,4 @@ Although it's perfectly fine to develop a code-golf solution on your own, just b
 
 **Authors**: 
 
-[eonu](https://github.com/eonu) <Edwin Onuonga>
+[eonu](https://github.com/eonu) - Edwin Onuonga
