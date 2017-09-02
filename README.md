@@ -33,7 +33,7 @@ All of the [ASCII characters](http://www.asciitable.com/) use only 1 byte, so th
 Though there is no official standard set of rules for code-golf, your solution:
 
 - Should aim to consist of the fewest amount of bytes possible
-- Can use any form of I/O provided it is reliable or consistent
+- Can use any form of I/O provided it is reliable and consistent
 - Can be written in any programming language
 
 Other rules may be further specified by the issuer of the code-golf problem, for example `No leading or trailing whitespace allowed`, or `No use of imported libraries`.
