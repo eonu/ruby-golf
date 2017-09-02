@@ -45,9 +45,9 @@ The Ruby version to use is a choice that you should make. There will be some tri
 Although it's perfectly fine to develop a code-golf solution on your own, just by experimentation, there are a number of tools that you may find useful in assisting you to come up with a solid code-golf solution:
 
 - [Rubular](http://rubular.com/) » a Ruby regular expression editor, handy for testing strings against regular expressions as you write them.
-- [Ruby documentation](http://ruby-doc.org/) » the official documentation for the Ruby language and it's standard library.
+- [Ruby documentation](http://ruby-doc.org/) » the official documentation for the Ruby language and its standard library.
 - [UTF-8 string length counter](https://mothereff.in/byte-counter) » a simple application for counting the bytes in a UTF-8 string if you can't tell by looking/counting, or don't want to guess. Better safe than sorry!
-- [Interactive MRuby]() » note that MRuby is a separate implementation of the Ruby language, although its syntax is Ruby 1.9 compatible. Though I recommend just using IRB in your terminal, you can use this too. Check out the GitHub repository for this app [here](https://github.com/joshnuss/mruby-web-irb).
+- [Interactive MRuby]() » note that MRuby is a separate implementation of the Ruby language, although its syntax is Ruby 1.9 compatible. Though I recommend just using IRB in your terminal, you can use this too.
 
 ---
 
