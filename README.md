@@ -56,7 +56,7 @@ Although it's perfectly fine to develop a code-golf solution on your own, just b
 1. [General](/articles/1.md) » General tips and advice for code-golf, including common (**non-language specific**) code-golf techniques.
 2. [Methods, blocks and lambdas](/articles/2.md) » The different ways in which executable code can be stored and called, and which way is best for code-golf.
 3. [IO, Kernel and ARGV](/articles/3.md) » How to handle input and output for the given code-golf problem.
-4. [Strings, symbols and regular expressions](/articles/3.md) » Quick tips such as interpolation to cut down on bytes wherever strings are involved, and understanding search patterns and the Regexp class.
+4. [Strings, symbols and regular expressions](/articles/4.md) » Quick tips such as interpolation to cut down on bytes wherever strings are involved, and understanding search patterns and the Regexp class.
 5. [Math and number types](/articles/3.md) » Deciding which type of number data type to use, how to declare them, and general advice for any math involved in golfing.
 6. [Arrays, ranges and the splat operator](/articles/3.md) » Techniques for array and tuple manipulation and optimisation, and understanding the neat Ruby splat operator.
 
