@@ -24,7 +24,7 @@ Code-golf solutions are typically measured in **bytes**. The aim is to have a so
 
 Though some programming languages allow you to use other encodings, [UTF-8](http://www.fileformat.info/info/unicode/utf8.htm) is regarded as the standard. Note that UTF-8 uses 1 to 4 bytes per character. 
 
-For example, consider the characters `a` and `𠜎` which are both UTF-8 characters but use 1 and 4 bytes respectively.
+For example, consider the characters `a`, `﷽` and `𠜎` which are all UTF-8 characters but use 1, 3 and 4 bytes respectively.
 
 All of the [ASCII characters](http://www.asciitable.com/) use only 1 byte, so these will be the most valuable in code-golf for things like variable names.
 
