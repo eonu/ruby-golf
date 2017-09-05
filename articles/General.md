@@ -7,7 +7,7 @@
 - [Eliminate whitespace](#eliminate_whitespace)
 - [Eliminate parentheses](#eliminate_parentheses)
 - [Shorten variable names](#shorten_variable_names)
-- [Better control flow and method returns](#better_control_flow_and_method_returns)
+- [Better control flow, conditionals and method returns](#better_control_flow,_conditionals_and_method_returns)
 - [Operator precedence](#operator_precedence)
 - [Use `;` to write code on one line](#use_;_to_write_code_on_one_line)
 
@@ -150,9 +150,9 @@ puts a.bytesize
 
 Always use ASCII letters for your variable names!
 
-## Better control flow and method returns <a name="better_control_flow_and_method_returns"></a>
+## Better control flow, conditionals and method returns <a name="better_control_flow,_conditionals_and_method_returns"></a>
 
-Ruby has a number of useful features for optimising your control flow and method returns - namely the ternary operator, postfix control flow and automatic returning of the last evaluated expression
+Ruby has a number of useful features for optimising your control flow and method returns - namely the ternary operator, postfix conditionals and automatic returning of the last evaluated expression
 
 Consider the following four methods. They all produce the same output by printing `y` if the parameter is even or greater than 5, or `n` otherwise:
 
@@ -216,7 +216,7 @@ def b(x)
 end
 ```
 
-Another feature offered by the Ruby language is postfix control flow - basically an `if` statement in one line. You can thank Perl for this! Note that the explicit `return` is needed again, otherwise `'n'` would always be the last evaluated expression:
+Another feature offered by the Ruby language is postfix conditionals - basically an `if` statement in one line. You can thank Perl for this! Note that the explicit `return` is needed again, otherwise `'n'` would always be the last evaluated expression:
 
 ```ruby
 # 44 bytes
