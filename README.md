@@ -53,12 +53,12 @@ Although it's perfectly fine to develop a code-golf solution on your own, just b
 
 # CONTENTS
 
-1. [General](/articles/1.md) - General tips and advice for code-golf, including common (**non-language specific**) code-golf techniques.
-2. [Methods, blocks and lambdas](/articles/2.md) - The different ways in which executable code can be stored and called, and which way is best for code-golf.
-3. [IO, Kernel and ARGV](/articles/3.md) - How to handle input and output for the given code-golf problem.
-4. [Strings, symbols and regular expressions](/articles/4.md) - Quick tips such as interpolation to cut down on bytes wherever strings are involved, and understanding search patterns and the `Regexp` class.
-5. [Math and numerics](/articles/5.md) - Deciding which type of numeric to use, how to declare them, and general advice for any math involved in golfing.
-6. [Arrays, ranges and the splat operator](/articles/6.md) - Techniques for array and range manipulation and optimization, and understanding the Ruby splat operator.
+1. [General](/articles/General.md) - General tips and advice for code-golf, including common (**non-language specific**) code-golf techniques.
+2. [Methods, blocks and lambdas](/articles/Methods, blocks and lambdas.md) - The different ways in which executable code can be stored and called, and which way is best for code-golf.
+3. [IO, Kernel and ARGV](/articles/IO, Kernel and ARGV.md) - How to handle input and output for the given code-golf problem.
+4. [Strings, symbols and regular expressions](/articles/Strings, symbols and regular expressions.md) - Quick tips such as interpolation to cut down on bytes wherever strings are involved, and understanding search patterns and the `Regexp` class.
+5. [Math and numerics](/articles/Math and numerics.md) - Deciding which type of numeric to use, how to declare them, and general advice for any math involved in golfing.
+6. [Arrays, ranges and the splat operator](/articles/Arrays, ranges and the splat operator.md) - Techniques for array and range manipulation and optimization, and understanding the Ruby splat operator.
 
 ---
 
