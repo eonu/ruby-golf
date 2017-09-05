@@ -1,4 +1,4 @@
-<p align="center"><img width="200" src="assets/golf.png"></p>
+<p align="center"><img style="min-width:200px;width:10vw;" src="assets/golf.png"></p>
 
 
 
@@ -44,21 +44,21 @@ The Ruby version to use is a choice that you should make. There will be some tri
 
 Although it's perfectly fine to develop a code-golf solution on your own, just by experimentation, there are a number of tools that you may find useful in assisting you to come up with a solid code-golf solution:
 
-- [Rubular](http://rubular.com/) » a Ruby regular expression editor, handy for testing strings against regular expressions as you write them.
-- [Ruby documentation](http://ruby-doc.org/) » the official documentation for the Ruby language and its standard library.
-- [UTF-8 string length counter](https://mothereff.in/byte-counter) » a simple application for counting the bytes in a UTF-8 string if you can't tell by looking/counting, or don't want to guess. Better safe than sorry!
-- [Interactive MRuby]() » note that MRuby is a separate implementation of the Ruby language, although its syntax is Ruby 1.9 compatible. Though I recommend just using IRB in your terminal, you can use this too.
+- [Rubular](http://rubular.com/) - a Ruby regular expression editor, handy for testing strings against regular expressions as you write them.
+- [Ruby documentation](http://ruby-doc.org/) - the official documentation for the Ruby language and its standard library.
+- [UTF-8 string length counter](https://mothereff.in/byte-counter) - a simple application for counting the bytes in a UTF-8 string if you can't tell by looking/counting, or don't want to guess. Better safe than sorry!
+- [Interactive MRuby]() - note that MRuby is a separate implementation of the Ruby language, although its syntax is Ruby 1.9 compatible. Though I recommend just using IRB in your terminal, you can use this too.
 
 ---
 
 # CONTENTS
 
-1. [General](/articles/1.md) » General tips and advice for code-golf, including common (**non-language specific**) code-golf techniques.
-2. [Methods, blocks and lambdas](/articles/2.md) » The different ways in which executable code can be stored and called, and which way is best for code-golf.
-3. [IO, Kernel and ARGV](/articles/3.md) » How to handle input and output for the given code-golf problem.
-4. [Strings, symbols and regular expressions](/articles/4.md) » Quick tips such as interpolation to cut down on bytes wherever strings are involved, and understanding search patterns and the `Regexp` class.
-5. [Math and numerics](/articles/3.md) » Deciding which type of numeric to use, how to declare them, and general advice for any math involved in golfing.
-6. [Arrays, ranges and the splat operator](/articles/3.md) » Techniques for array and tuple manipulation and optimisation, and understanding the neat Ruby splat operator.
+1. [General](/articles/1.md) - General tips and advice for code-golf, including common (**non-language specific**) code-golf techniques.
+2. [Methods, blocks and lambdas](/articles/2.md) - The different ways in which executable code can be stored and called, and which way is best for code-golf.
+3. [IO, Kernel and ARGV](/articles/3.md) - How to handle input and output for the given code-golf problem.
+4. [Strings, symbols and regular expressions](/articles/4.md) - Quick tips such as interpolation to cut down on bytes wherever strings are involved, and understanding search patterns and the `Regexp` class.
+5. [Math and numerics](/articles/5.md) - Deciding which type of numeric to use, how to declare them, and general advice for any math involved in golfing.
+6. [Arrays, ranges and the splat operator](/articles/6.md) - Techniques for array and range manipulation and optimisation, and understanding the neat Ruby splat operator.
 
 ---
 
