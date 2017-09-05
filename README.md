@@ -58,7 +58,7 @@ Although it's perfectly fine to develop a code-golf solution on your own, just b
 3. [IO, Kernel and ARGV](/articles/3.md) - How to handle input and output for the given code-golf problem.
 4. [Strings, symbols and regular expressions](/articles/4.md) - Quick tips such as interpolation to cut down on bytes wherever strings are involved, and understanding search patterns and the `Regexp` class.
 5. [Math and numerics](/articles/5.md) - Deciding which type of numeric to use, how to declare them, and general advice for any math involved in golfing.
-6. [Arrays, ranges and the splat operator](/articles/6.md) - Techniques for array and range manipulation and optimization, and understanding the Ruby splat operator `*`.
+6. [Arrays, ranges and the splat operator](/articles/6.md) - Techniques for array and range manipulation and optimization, and understanding the Ruby splat operator.
 
 ---
 
