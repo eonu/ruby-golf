@@ -420,5 +420,5 @@ Examples of situations where these global variables would be useful:
 
 |             Previous article             |               Next article               |
 | :--------------------------------------: | :--------------------------------------: |
-| [Methods, blocks and lambdas](../articles/2.md) | [Strings, symbols and regular expressions](../articles/4.md) |
+| [Methods, blocks and lambdas](../articles/Methods,%20blocks%20and%20lambdas.md) | [Strings, symbols and regular expressions](../articles/Strings,%20symbols%20and%20regular%20expressions.md) |
 

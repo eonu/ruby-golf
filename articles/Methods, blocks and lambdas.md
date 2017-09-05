@@ -223,7 +223,7 @@ But as you can see, these situations are extremely rare, and in this case only 4
 
 ---
 
-|      Previous article       |              Next article               |
-| :-------------------------: | :-------------------------------------: |
-| [General](../articles/1.md) | [IO, Kernel and ARGV](../articles/3.md) |
+|         Previous article          |               Next article               |
+| :-------------------------------: | :--------------------------------------: |
+| [General](../articles/General.md) | [IO, Kernel and ARGV](../articles/IO,%20Kernel%20and%20ARGV.md) |
 

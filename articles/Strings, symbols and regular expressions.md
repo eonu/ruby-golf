@@ -231,7 +231,7 @@ puts'this is code-golf!'=~/z/?:∃golf: :∄golf
 
 ------
 
-|            Previous article             |             Next article              |
-| :-------------------------------------: | :-----------------------------------: |
-| [IO, Kernel and ARGV](../articles/3.md) | [Math and numerics](../articles/5.md) |
+|             Previous article             |               Next article               |
+| :--------------------------------------: | :--------------------------------------: |
+| [IO, Kernel and ARGV](../articles/IO,%20Kernel%20and%20ARGV.md) | [Math and numerics](../articles/Math%20and%20numerics.md) |
 

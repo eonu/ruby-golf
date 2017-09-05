@@ -358,4 +358,4 @@ a=5;p a
 
 |               Next article               |
 | :--------------------------------------: |
-| [Methods, blocks and lambdas](../articles/2.md) |
+| [Methods, blocks and lambdas](../articles/Methods,%20blocks%20and%20lambdas.md) |

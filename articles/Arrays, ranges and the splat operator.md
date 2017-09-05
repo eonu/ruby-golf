@@ -382,7 +382,7 @@ p [*[:a], *:b, *[:c, :d], :e, *%i(f g h)]
 
 ------
 
-|           Previous article            |
-| :-----------------------------------: |
-| [Math and numerics](../articles/5.md) |
+|             Previous article             |
+| :--------------------------------------: |
+| [Math and numerics](../articles/Math%20and%20numerics.md) |
 
