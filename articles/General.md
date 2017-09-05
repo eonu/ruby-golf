@@ -343,7 +343,7 @@ a=x%2==0||x>5?'y':'n'
 
 ## Use `;` to write code on one line <a name="use_;_to_write_code_on_one_line"></a>
 
-Though this doesn't actually save any bytes since `;` takes up one byte just like the newline character `\n` does, but it is often more desirable to write your code on one line:
+Though this doesn't actually save any bytes since `;` takes up one byte just like the newline character `\n` does, it is often more desirable to write your code on one line:
 
 ```ruby
 # 7 bytes
