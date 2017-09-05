@@ -1,4 +1,4 @@
-<p align="center"><img style="min-width:200px;width:10vw;" src="assets/golf.png"></p>
+<p align="center"><img width="150px" src="assets/golf.png"></p>
 
 
 
