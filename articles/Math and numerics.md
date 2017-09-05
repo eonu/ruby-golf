@@ -172,5 +172,5 @@ p 4.7r #=> (47/10)
 
 |             Previous article             |               Next article               |
 | :--------------------------------------: | :--------------------------------------: |
-| [Strings, symbols and regular expressions](../articles/4.md) | [Arrays, ranges and the splat operator](../articles/6.md) |
+| [Strings, symbols and regular expressions](../articles/Strings,%20symbols%20and%20regular%20expressions.md) | [Arrays, ranges and the splat operator](../articles/Arrays,%20ranges%20and%20the%20splat%20operator.md) |
 
