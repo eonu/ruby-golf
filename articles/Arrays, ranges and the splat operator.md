@@ -84,8 +84,8 @@ p %w(this is code golf in ruby).join'-'
 p %w(this is code golf in ruby).join?-
 #=> syntax error, unexpected end-of-input (SyntaxError)
 
-# 36 bytes - better
-p %w(this is code golf in ruby).*'-'
+# 35 bytes - better
+p %w(this is code golf in ruby)*'-'
 #=> "this-is-code-golf-in-ruby"
 
 # 34 bytes - best!
